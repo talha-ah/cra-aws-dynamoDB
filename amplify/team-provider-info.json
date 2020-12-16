@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsdynamodb-dev-01924-authRole",
+      "UnauthRoleArn": "arn:aws:iam::027189170515:role/amplify-awsdynamodb-dev-01924-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::027189170515:role/amplify-awsdynamodb-dev-01924-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-awsdynamodb-dev-01924-deployment",
+      "UnauthRoleName": "amplify-awsdynamodb-dev-01924-unauthRole",
+      "StackName": "amplify-awsdynamodb-dev-01924",
+      "StackId": "arn:aws:cloudformation:ap-south-1:027189170515:stack/amplify-awsdynamodb-dev-01924/9eddfdd0-3fd3-11eb-b7b4-0a8dc5699504",
+      "AmplifyAppId": "d1y7ccqwdnwi5m"
+    },
+    "categories": {
+      "auth": {
+        "awsdynamodbf7b2e0b4": {}
+      }
+    }
+  }
+}
